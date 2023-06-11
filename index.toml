@@ -86,11 +86,6 @@ hash = "4cd28f6942c4df1618f8a9ccadc41e22666aef02b88315e0424b79c058c404cb"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "3d6aadf5b687f759b05d393357d2eb9693fd658b1d26ee20c9821479c7418549"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
 metafile = true
@@ -113,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "1683145253f0375ebacdacb685fb37549bd7a32b94b1d074e54cf575ee2c541d"
 metafile = true
 
 [[files]]
