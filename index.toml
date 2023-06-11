@@ -141,11 +141,6 @@ hash = "058d607800aca4bfa0594ec089a35a4dbb1b6aaede5746cb1640db70bc77e51a"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "fc7d25169248fbb67ec3310c277cee7bd59c579a5bc5209ad3b606338d1a2a58"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "01da4b90218b74938e3284edded8d4ad6a00464cd932695bb53f2059814d1a22"
 metafile = true
