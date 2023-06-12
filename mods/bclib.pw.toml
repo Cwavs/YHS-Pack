@@ -1,0 +1,13 @@
+name = "BCLib"
+filename = "bclib-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BgNRHReB/versions/yZskNeFO/bclib-3.0.2.jar"
+hash-format = "sha1"
+hash = "c58964f8fd03c4c857c3a4c778d02f776dc1aba9"
+
+[update]
+[update.modrinth]
+mod-id = "BgNRHReB"
+version = "yZskNeFO"
