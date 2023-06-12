@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "d8e1be6504f9fa74f7f78904422b83cc0b7147ed974e6dab16f03ec9dfda8994"
+hash = "f238e1f28f18e58f737116b13dab9716ca38b2dd84242e802d60419cc71ed737"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "aee59be936815099296abd4dbdb903001d72e8f6ebb9b6a4c534d496e083cc78"
+hash = "8f654cdd37efc19957d82e995ab0f0c048a75572fd2f0d3b46e1273e615a391b"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "bcec3b585d846b33fdb6992c26e20bc22c7fea344ad8dd02ae38766cf0681135"
+hash = "deb4d4d8b8c54d02802970e72d1cac35dd8cb19ee2b192e6c439207a4683cf6d"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "1683145253f0375ebacdacb685fb37549bd7a32b94b1d074e54cf575ee2c541d"
+hash = "be84563e2c530c6960ceedec8a6ec6a1272fcb6de2740d7e6bcf096e347ea38f"
 metafile = true
 
 [[files]]
